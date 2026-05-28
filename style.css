@@ -11,3 +11,13 @@ p{
     font-size: 30px;
     text-align: center;
 }
+ img{ 
+    width: 20%;
+    margin-left: 610px;
+    border: 10px solid rgb(78, 15, 104);
+}
+.imghtml{
+    width:10%;
+    margin-left: 500px;
+    border: 10px solid rgb(123, 57, 167);
+}
