@@ -21,3 +21,17 @@ p{
     margin-left: 500px;
     border: 10px solid rgb(123, 57, 167);
 }
+.img_cabecalho{
+    height: 90px;
+    width: 100px;
+    transition: 0.3s;
+
+}
+.img_cabecalho:hover{
+    opacity: 0.8;
+}
+ header{
+ display:flex;
+ background-color: rgb(208, 162, 252);
+ padding: 10px;
+ }
